@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/yk5q2YY/SSL-ERROR-RX-RECORD-TOO-LONG.png" width="400"></a>
-<h1 align="center"><b>How to Fix SSL_ERROR_RX_RECORD_TOO_LONG Firefox Error</b></h1>
+<h1 align="center"><b>How to fix SSL_ERROR_RX_RECORD_TOO_LONG Firefox Error</b></h1>
 <br />
 
 ## What is an SSL_ERROR_RX_RECORD_TOO_LONG?
